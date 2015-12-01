@@ -155,6 +155,12 @@ tip of the branch.
   `git checkout feature`
 
   `git merge master`
+  
+- Fix the merge conflicts
+
+  `git add branching.txt`
+  
+  `git commit -m "fixed merge conflicts"`
 
   `git checkout master`
 
